@@ -118,7 +118,8 @@ print(traversedpath)
 
 ```
 ##Output:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4a7cbc73-e8b2-442c-bf5f-68355bbbed86)
+
 
 
 
